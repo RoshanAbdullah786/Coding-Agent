@@ -1,0 +1,22 @@
+{
+    "openrouter_api_key": [
+        "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",
+        "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",
+        "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",
+        "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",
+        "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"
+    ],
+    "rate_limited_openrouter_api_key": [],
+    "google_api_key": [
+        "AIzaSyAGcX2-5IBEjMQnHWrEHGon991WIohKHqo",
+        "AIzaSyBISL5a2Jijxq8JVbvNpP9BTCeopKrAds0"
+    ],
+    "rate_limited_google_api_key": [],
+    "unsplash_api_key": "k2-GSjYkhBz2ni__Y_pbZwSKHT8bvwQxlbD_RO1ZI0Q",
+    "coding_model": "gemini-2.5-flash-preview-04-17",
+    "vision_model": "gemini-2.5-flash-preview-04-17",
+    "page_detector_model": "gemini-2.5-flash-preview-04-17",
+    "ui_detector_model": "gemini-2.5-flash-preview-04-17",
+    "task_manager_model": "gemini-2.5-flash-preview-04-17",
+    "prompt_agent_model":"gemini-2.5-flash-preview-04-17"
+}
